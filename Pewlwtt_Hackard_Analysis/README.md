@@ -6,6 +6,8 @@ The purpose of this project is to determine the number of retiring employees by 
 ## Result
 With the retirment_titles table I can see every employee who is eligible for retirement and for how long they have worked at each position over the course of their entire career.
 
+![alt text](https://github.com/harryhua2021/SQL_Challenge/blob/main/Pewlwtt_Hackard_Analysis/Data/title_count.png)
+
 The unique titles table I created is showing the most recent title for employees of retirment age. Based on the unique_titles table, the majority of the employees of retirment age has Senior Engineer title.
 
 ## Conclusion
